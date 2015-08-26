@@ -1,5 +1,5 @@
-#Start Prototype
-Quickly start a prototype using bower, grunt, jade and sass
+#Commencer un prototype
+Commencer rapidement un prototype en utilisant grunt, bower, jade et sass
 
 # Technologies
 - [npm][4]
