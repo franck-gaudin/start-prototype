@@ -1,0 +1,30 @@
+{
+  "name": "jade-tuts",
+  "version": "0.0.1",
+  "dependencies": {
+    "bourbon": "~3.2.4",
+    "modernizr": "~2.6.2",
+    "jquery": "~1.10.2",
+    "reset-css": ""
+  },
+  "authors": [
+    "fgaudin <fg@cgcom.com>"
+  ],
+  "description": "tutoriel sur le templating avec jade",
+  "main": "index.html",
+  "keywords": [
+    "jade",
+    "sass",
+    "bower",
+    "grunt"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
